@@ -13,7 +13,7 @@ html, body {
   border-radius: 25px;
   cursor: pointer;
   color: #ffffff;
-  background-color: #1877f2;
+  background-color: #f2182e;
 }
 .button:hover{
   background-color: #166fe5;
@@ -32,7 +32,7 @@ html, body {
     border: 8px  red;
     border-radius: 10px;
     background-color: #ffffff;
-    box-shadow: 0 0 5px 5px gainsboro;
+    box-shadow: 0 0 3px 3px #166fe5;
     justify-content: flex-start;
 }
 
